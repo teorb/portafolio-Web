@@ -446,6 +446,13 @@ section{
     background: var(--main-color);
     border-radius: 50%;
 }
+.experiencia{
+    text-align: center;
+    font-size: 3.3rem;
+    margin: 0 0 1.5rem 2rem;
+    color: #fff9f9;
+
+}
 
 
 .education-content .content{
